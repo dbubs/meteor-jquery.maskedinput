@@ -1,0 +1,3 @@
+[submodule "lib/jquery.maskedinput"]
+	path = lib/jquery.maskedinput
+	url = git://github.com/digitalBush/jquery.maskedinput.git
